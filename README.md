@@ -1,5 +1,7 @@
 # Internship ReadMe: Prodigy Infotech Data Science Tasks
 
+https://github.com/Gayatri120/Data-Science-Intern-at-Prodigy-InfoTech.git
+
 ## Overview:-
   This repository contains the tasks completed during my internship at Prodigy Infotech. Each task demonstrates a different aspect of data science, including data visualization, data cleaning, exploratory data analysis, machine learning, and sentiment analysis. The tasks use various datasets to showcase different techniques and methods commonly used in data science projects.
 
